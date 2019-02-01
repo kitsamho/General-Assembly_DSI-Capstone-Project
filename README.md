@@ -18,9 +18,9 @@ Once I’ve scraped, cleaned and integrated all these data streams into a final 
 
 The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. For those that want a quick overview of the project I would recommend exploring the [0_Summary & Technical Reporting](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical - I have created a powerpoint slideshow talking through the project in '6_Presentation'
 
-0_Summary & Technical Reporting	
+0_Summary & Technical Reporting]	
 
-1_Data Acquisition	cleanedup
+[1_Data Acquisition](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/1_Data%20Acquisition/1_Data%20Acquisition.ipynb)
 
 2_Data Preparation & Cleaning
 
