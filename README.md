@@ -16,7 +16,7 @@ The diagram below summarises the data streams I intend to obtain and how I inten
 
 Once I’ve scraped, cleaned and integrated all these data streams into a final .csv file, I can then begin to look at analyzing and start building some models.
 
-The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. For those that want a quick overview of the project I would recommend exploring the '0_Summary & Technical Reporting', for those who want something less technical - I have created a powerpoint slideshow talking through the project in '6_Presentation'
+The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. For those that want a quick overview of the project I would recommend exploring the [0_Summary & Technical Reporting](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical - I have created a powerpoint slideshow talking through the project in '6_Presentation'
 
 0_Summary & Technical Reporting	
 
