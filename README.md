@@ -20,6 +20,8 @@ The project in its current state splits into seven stages and for ease of readin
 
 # Links to specific stages of the project
 
+[0_Final_Clean_Data](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Final_Clean_Data)
+
 [0_Summary & Technical Reporting](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Summary%20%26%20Technical%20Reporting)
 
 [1_Data Acquisition](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/1_Data%20Acquisition/1_Data%20Acquisition.ipynb)
