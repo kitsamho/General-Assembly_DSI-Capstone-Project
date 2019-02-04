@@ -2,7 +2,7 @@
 
 
 # Goals of the project
-Focussing on the seven biggest UK supermarket brands on Facebook and using natural language processing and supervised classification modelling, can we train a machine to distinguish the different supermarket brands' social content from one another on Facebook?
+Focussing on the seven biggest UK supermarket brands on Facebook and using natural language processing and supervised classification modelling, can we train a machine to distinguish between the different supermarket brands' social content from one another on Facebook?
 
 # Why you created the project
 Facebook pages are a significant brand asset for thousands of companies and organisations worldwide. Companies invest heavily into developing social content to engage with customers and prospects in a two way 'conversation’. The impact of social media on business success is widely debated (often with very differing views) however one thing that most marketers agree on is that brand differentiation is a key aspect of any 'healthy' brand. Brands need to stand out from one another in their category. Not just in terms of what they offer but also in terms of how they communicate - across all media channels, including social media. Which leads to the focus of this project – are brands doing enough to differentiate their social content on Facebook?
