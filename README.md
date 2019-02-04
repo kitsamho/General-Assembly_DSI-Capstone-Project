@@ -50,7 +50,7 @@ All the standard Data Science libraries (e.g. SKLearn, Seaborn, Pandas, NumPy...
 I've set up each stage of the project in its own folder with various sub folder containing all the data you need so you can download individual folders and run them seperately and they should all run smoothly. If you have any problems, let me know through here and I can try and assist you.
 
 # Observations and improvements
-There are plenty of improvements I can make to this project which are outlined in the technical report [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Summary%20%26%20Technical%20Reporting) however I'll include them below again for convenience.
+There are plenty of improvements I can make to this project which are outlined in the technical report [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb) however I'll include them below again for convenience.
 
 ## Approach:
 Scraping data from Facebook was 'interesting' to say the least, and presented many challenges. As Selenium mimicks the web navigating behaviour of an individual, scraping can be a slow process, taking up to a few hours just to gather content for one brand. Furthermore, sometimes the way pages load on Facebook can vary meaning that some syntax failed to work. Although I managed to write a script that got what I needed fairly consistently - repeating this data capture process again for other brands / other categories would be a slow process.
