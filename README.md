@@ -2,22 +2,17 @@
 
 
 # Goals of the project
-Focussing on the seven biggest UK supermarket brands on Facebook and using natural language processing and supervised classification modelling, can we train a machine to classify brands on the basis of their social content?
+Focussing on the seven biggest UK supermarket brands on Facebook and using natural language processing and supervised classification modelling, can we train a machine to classify supermarket brands?
 
 # Why you created the project
 Facebook pages are a significant brand asset for thousands of companies and organisations worldwide. Companies invest heavily into developing social content to engage with customers and prospects in a two way 'conversation’. The impact of social media on business success is widely debated (often with very differing views) however one thing that most marketers agree on is that brand differentiation is a key aspect of any 'healthy' brand. Brands need to stand out from one another in their category. Not just in terms of what they offer but also in terms of how they communicate - across all media channels, including social media. Which leads to the focus of this project – are brands doing enough to differentiate their social content on Facebook?
 
-Why supermarkets? Well, having worked somewhere that was responsible for one of these brands’ social content, I was curious to see if their work was effective,
+## Why supermarkets?
+There are many reasons why I chose to use UK supermarkets in this pilot. Firstly, the UK supermarket is something everyone will experience at least once a week, so it felt relevant to explore this from a 'reach & relevance' point of view. Furthermore we have a good spread of brands in the UK supermarket category with both premium and budget brands actively delivering a service to people up and down the UK.  Finally, the UK supermarket category is [worth hundreds of billions](https://www.statista.com/statistics/295669/grocery-retail-market-value-by-in-the-united-kingdom-uk/) so there was a modicum of commerical pertinence behind choosing UK supermarket brands as the focus.
 
 # Methodology & Approach
 
-Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I intend to scrape their social content from Facebook using automated web scraping (Selenium).
-Web scraping can be quite tricky – especially on a site like Facebook which has quite complicated and varying html code. However, there are no other ways of obtaining page content. Using Facebook’s social graph API would have been the ideal, however because of the Cambridge Analytica scandal, developer approval is very hard to get.
-In addition to the raw content scraped online, I’ll integrate this with some secondary data sources to add a few metrics that I can’t scrape
-
-The diagram below summarises the data streams I intend to obtain and how I intend them to work with one another.
-
-Once I’ve scraped, cleaned and integrated all these data streams into a final .csv file, I can then begin to look at analyzing and start building some models.
+Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I intend to scrape their social content from Facebook using automated web scraping (Selenium). 
 
 The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. For those that want a quick overview of the project I would recommend exploring the [0_Summary & Technical Reporting](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical - I have created a powerpoint slideshow talking through the project in ['6_Presentation'](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/6_Presentation)
 
