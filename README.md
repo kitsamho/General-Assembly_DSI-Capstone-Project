@@ -14,9 +14,13 @@ There are many reasons why I chose to use UK supermarkets in this pilot. Firstly
 
 Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I intend to scrape their social content from Facebook using automated web scraping (Selenium). 
 
-The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. For those that want a quick overview of the project I would recommend exploring the [0_Summary & Technical Reporting](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical - I have created a powerpoint slideshow talking through the project in ['6_Presentation'](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/6_Presentation)
+
+# Findings
+For those that are more technically minded that want an overview of the project I would recommend exploring the [Summary & Technical Report](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical and more visual - I have created a [powerpoint slideshow](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/6_Presentation/Capstone%20Deck.pdf) talking through the project in a more 'colourful' manner. 
 
 # Links to specific stages of the project
+
+The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. 
 
 [0_Final_Clean_Data](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Final_Clean_Data)
 
