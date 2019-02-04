@@ -1,15 +1,18 @@
+<img src="Visual_Assets/readmeheader.png" style="width: 800px;">
+
+
 # Goals of the project
 Focussing on the seven biggest UK supermarket brands on Facebook and using natural language processing and supervised classification modelling, can we train a machine to distinguish the different supermarket brands' social content from one another on Facebook?
 
-# Why you created the project 
+# Why you created the project
 Facebook pages are a significant brand asset for thousands of companies and organisations worldwide. Companies invest heavily into developing social content to engage with customers and prospects in a two way 'conversation’. The impact of social media on business success is widely debated (often with very differing views) however one thing that most marketers agree on is that brand differentiation is a key aspect of any 'healthy' brand. Brands need to stand out from one another in their category. Not just in terms of what they offer but also in terms of how they communicate - across all media channels, including social media. Which leads to the focus of this project – are brands doing enough to differentiate their social content on Facebook?
 
 Why supermarkets? Well, having worked somewhere that was responsible for one of these brands’ social content, I was curious to see if their work was effective,
 
 # Methodology & Approach
 
-Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I intend to scrape their social content from Facebook using automated web scraping (Selenium). 
-Web scraping can be quite tricky – especially on a site like Facebook which has quite complicated and varying html code. However, there are no other ways of obtaining page content. Using Facebook’s social graph API would have been the ideal, however because of the Cambridge Analytica scandal, developer approval is very hard to get. 
+Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I intend to scrape their social content from Facebook using automated web scraping (Selenium).
+Web scraping can be quite tricky – especially on a site like Facebook which has quite complicated and varying html code. However, there are no other ways of obtaining page content. Using Facebook’s social graph API would have been the ideal, however because of the Cambridge Analytica scandal, developer approval is very hard to get.
 In addition to the raw content scraped online, I’ll integrate this with some secondary data sources to add a few metrics that I can’t scrape
 
 The diagram below summarises the data streams I intend to obtain and how I intend them to work with one another.
@@ -47,7 +50,7 @@ TQDM Notebook (not essential, but helps to see progress)
 All the standard Data Science libraries (e.g. SKLearn, Seaborn, Pandas, NumPy...)
 
 # How to run the project
-I've set up each stage of the project in its own folder with various sub folder containing all the data you need so you can download individual folders and run them seperately and they should all run smoothly. If you have any problems, let me know through here and I can try and assist you. 
+I've set up each stage of the project in its own folder with various sub folder containing all the data you need so you can download individual folders and run them seperately and they should all run smoothly. If you have any problems, let me know through here and I can try and assist you.
 
 # Observations and improvements
 There are plenty of improvements I can make to this project which are outlined in the technical report [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Summary%20%26%20Technical%20Reporting) however I'll include them below again for convenience.
@@ -69,7 +72,3 @@ Although TF-IFD Vectorisation was successul in highlighting the differences in t
 # Link to your Jupyter Notebook
 
 The link to all the notebooks is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project)
-
-
-
-
