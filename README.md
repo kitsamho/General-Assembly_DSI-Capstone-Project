@@ -12,11 +12,10 @@ There are many reasons why I chose to use UK supermarkets. Firstly, the UK super
 
 # Methodology & Approach
 
-Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I scraped their social content from Facebook using automated web scraping (Selenium). 
-
+Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I web scraped the brands' posts from Facebook using automation (Selenium). Although there is some variance, we have at least 3 years of Facebook content for each brand. The data was loosely stuctured however required extensive cleaning and preparation in order to make the content viable for classification.
 
 # Findings & Overview
-For those that are more technically minded that want an overview of the project I would recommend exploring the [Summary & Technical Report](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical and more visual - I have created a [powerpoint slideshow](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/6_Presentation/Capstone%20Deck.pdf) talking through the project in a more accessible manner. 
+For those that are more technically minded that want an overview of the project - from its inception to the results - I would recommend exploring the [Summary & Technical Report](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb), for those who want something less technical and more visual - I have created a [pdf deck](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/6_Presentation/Capstone%20Deck.pdf) talking through the project in a more accessible manner. 
 
 # The detail : links to specific stages of the project
 
@@ -68,8 +67,12 @@ Although we had reasonable amounts of data more content would be helpful in maki
 Although my Selenium script allowed me to obtain my primary data source - I did use a secondary data source (Fanpage Karma https://www.fanpagekarma.com/ ) to provide me with time stamped 'total likes' data which I integrated with my intial data set. I subscribed to their free trial and took what I needed. However when I was exploring this source, there were many other useful metrics that I would have access to - such as the break out of like, haha, angry, sad, wow etc. This secondary data source could very well plug the gaps found in my primary data source so I would be happy to look into this in any future iterations of this project and see where I can synergise different data sets further.
 
 ## NLP Approaches:
-Although TF-IFD Vectorisation was successul in highlighting the differences in the posts and was a much better approach than a simple bag of words model (Count Vectorising), using TF-IFD, we are still effectively using word counts in some form (although weighted) to provide features. It would be interesting - volume of text data permitting - to explore more nuanced ways of text analysis that can give us 'richer' features e.g sentiment analysis (using some like VADER) and exploring topics and themes (using something like LDA).
+Although TF-IFD Vectorisation was successul in highlighting the differences in the posts and was a much better approach than a simple bag of words model (Count Vectorising), using TF-IFD, we are still effectively using word counts in some form (although weighted) to provide features. It would be interesting - volume of text data permitting - to explore more nuanced ways of text analysis that can give us 'richer' features e.g sentiment analysis (using something like VADER) and exploring topics and themes (using something like LDA).
 
 # Link to your Jupyter Notebook
 
 The link to all the notebooks is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project)
+
+# Link to fina clean data
+
+The link to the final clean data is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Final_Clean_Data)
