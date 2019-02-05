@@ -19,7 +19,7 @@ For those that are more technically minded that want an overview of the project 
 
 # The detail : links to specific stages of the project
 
-The project in its current state splits into seven stages and for ease of reading I’ve split this across seven notebooks. 
+The project in its current state splits into a six stages and for ease of reading I’ve split this across six notebooks. 
 
 [Final_Clean_Data](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Final_Clean_Data)
 
