@@ -9,13 +9,12 @@ Facebook pages are a significant brand asset for thousands of companies and orga
 
 The impact of social media on business success is widely debated however one thing that most marketers agree on is that brand differentiation is a key aspect of any 'healthy' brand. Brands need to stand out from one another in their category. Not just in terms of what they offer but also in terms of how they communicate - across all media channels, including social media. Which leads to the marketing focus of this project: 
 
-      Are brands doing enough to differentiate their social content on Facebook?
+<b>Are brands doing enough to differentiate their social content on Facebook?</b>
 
 ## Why supermarkets?
 There are a few reasons why UK supermarkets felt like a good area to investigate. Firstly, the UK supermarket is something everyone will experience at least once a week or more often. Furthermore we have a good spread of brand positioning in the UK supermarket category with both premium and budget brands actively delivering a service to people up and down the country. Finally, the UK supermarket category is [worth hundreds of billions of pounds](https://www.statista.com/statistics/295669/grocery-retail-market-value-by-in-the-united-kingdom-uk/) so there was a modicum of commerical pertinence in making UK supermarket brands the focus for this project.
 
 # Methodology & Approach
-
 Seven of the UK's leading supermarket brands were chosen for the study: Sainsbury's, Tesco, Lidl, ASDA, Morrisons, M&S and Waitrose. I web scraped the brands' posts from Facebook using automation (Selenium). Although there is some variance, we have at least two years of Facebook content for each brand. The data was loosely stuctured after scraping however required further cleaning and preparation in order to make the Facebook content viable for modelling.
 
 # Findings & Overview
@@ -54,6 +53,8 @@ Some key libraries are required in order to run this project in its entirety:
 
 # How to run the project
 I've set up each stage of the project in its own folder with various sub folder containing all the data you need, so you can download individual folders and run them seperately and (hopefully) they should all run smoothly. If you have any problems though, let me know through here and I can try and assist you.
+
+                        <b> Important</b> If you want to re-run the web scraping element of the project you will need to include your Facebook log in details in the script. Also, in order to scrape all the content from any brand page - you have to have 'liked' the brand page yourself. If you scrape a brand page without having liked it first, you cannot access some key engagement metrics e.g. what 'shares' a post received.
 
 # Observations and improvements
 There are plenty of improvements I can make to this project which are outlined in the technical report [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb) however I'll include them below again for convenience.
