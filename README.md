@@ -56,7 +56,7 @@ I've set up each stage of the project in its own folder with various sub folder 
 
 <i>Important: If you want to re-run the web scraping element of the project you will need to include your Facebook log in details in the script. Also, in order to scrape all the content from any brand page - you have to have 'liked' the brand page yourself. If you scrape a brand page without having liked it first, you cannot access some key engagement metrics e.g. what 'shares' a post received.</i> 
 
-<img src="Visual_Assets/log.png" style="width: 800px;">
+<img src="Visual_Assets/log.png" style="width: 300px;">
 
 # Observations and improvements
 There are plenty of improvements I can make to this project which are outlined in the technical report [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/blob/master/0_Summary%20%26%20Technical%20Reporting/Summary%20%26%20Technical%20Reporting.ipynb) however I'll include them below again for convenience.
