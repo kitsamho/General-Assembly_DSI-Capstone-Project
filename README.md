@@ -71,10 +71,10 @@ Although my Selenium script allowed me to obtain my primary data source - I did 
 ## NLP Approaches:
 Although TF-IFD Vectorisation was successul in highlighting the differences in the posts and was a much better approach than a simple bag of words model (Count Vectorising), using TF-IFD, we are still effectively using word counts in some form (although weighted) to provide features. It would be interesting - volume of text data permitting - to explore more nuanced ways of text analysis that can give us 'richer' features e.g sentiment analysis (using something like VADER) and exploring topics and themes (using something like LDA).
 
-# Link to your Jupyter Notebook
+# Link to Jupyter Notebook
 
 The link to all the notebooks is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project)
 
-# Link to fina clean data
+# Link to final and cleaned data set
 
 The link to the final clean data is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Final_Clean_Data)
