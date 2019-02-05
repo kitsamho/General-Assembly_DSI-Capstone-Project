@@ -9,7 +9,7 @@ Facebook pages are a significant brand asset for thousands of companies and orga
 
 The impact of social media on business success is widely debated however one thing that most marketers agree on is that brand differentiation is a key aspect of any 'healthy' brand. Brands need to stand out from one another in their category. Not just in terms of what they offer but also in terms of how they communicate - across all media channels, including social media. Which leads to the marketing focus of this project: 
 
-                <b>Are brands doing enough to differentiate their social content on Facebook?</b>
+      Are brands doing enough to differentiate their social content on Facebook?
 
 ## Why supermarkets?
 There are a few reasons why UK supermarkets felt like a good area to investigate. Firstly, the UK supermarket is something everyone will experience at least once a week or more often. Furthermore we have a good spread of brand positioning in the UK supermarket category with both premium and budget brands actively delivering a service to people up and down the country. Finally, the UK supermarket category is [worth hundreds of billions of pounds](https://www.statista.com/statistics/295669/grocery-retail-market-value-by-in-the-united-kingdom-uk/) so there was a modicum of commerical pertinence in making UK supermarket brands the focus for this project.
@@ -43,7 +43,6 @@ The project in its current state splits into a six stages and for ease of readin
 
 
 # How to install the project
-
 Feel free to fork and clone this project. You’ll need a github account and a python environment to run the code, Jupyter notebook might make sense seeing as that’s what I wrote in.
 
 Some key libraries are required in order to run this project in its entirety:
@@ -73,10 +72,10 @@ Although my Selenium script allowed me to obtain my primary data source - I did 
 ## NLP Approaches:
 Although TF-IFD Vectorisation was successul in highlighting the differences in the posts and was a much better approach than a simple bag of words model (Count Vectorising), using TF-IFD, we are still effectively using word counts in some form (although weighted) to provide features. It would be interesting - volume of text data permitting - to explore more nuanced ways of text analysis that can give us 'richer' features e.g sentiment analysis (using something like VADER) and exploring topics and themes (using something like LDA).
 
-# Link to Jupyter Notebook
+# Links: Jupyter Notebook
 
 The link to all the notebooks is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project)
 
-# Link to final and cleaned data set
+# Links : Final and cleaned data set
 
 The link to the final clean data is [here](https://github.com/kitsamho/General-Assembly_DSI-Capstone-Project/tree/master/0_Final_Clean_Data)
