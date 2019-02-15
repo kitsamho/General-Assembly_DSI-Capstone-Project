@@ -52,7 +52,7 @@ Some key libraries are required in order to run this project in its entirety:
 - All the standard Data Science libraries (e.g. SKLearn, Seaborn, Pandas, NumPy...)
 
 # How to run the project
-I've set up each stage of the project in its own folder with various sub folder containing all the data you need, so you can download individual folders and run them seperately and (hopefully) they should all run smoothly. If you have any problems though, let me know through here and I can try and assist you.
+I've set up each stage of the project in its own folder with various sub folders containing all the data you need, so you can download individual folders and run each stage seperately and (hopefully) they should all run smoothly. If you have any problems though, let me know through here and I can try and assist you.
 
 <i>Important: If you want to re-run the web scraping element of the project you will need to include your Facebook log in details in the script. Also, in order to scrape all the content from any brand page - you have to have 'liked' the brand page yourself. If you scrape a brand page without having liked it first, you cannot access some key engagement metrics e.g. what 'shares' a post received.</i> 
 
